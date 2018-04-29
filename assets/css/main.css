@@ -772,6 +772,10 @@
 			transform: rotateX(15deg);
 		}
 
+		.realartred:hover {
+			color: rgb(238, 46, 36);
+		}
+
 /* Footer */
 
 	#footer {
